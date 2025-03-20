@@ -27,6 +27,6 @@ json-server --watch db.json
 
 ## ✍ Contributors
 - [Josh Dicker](https://github.com/josdic1)
- Hi 
+
 ## 📜 License
 MIT License
