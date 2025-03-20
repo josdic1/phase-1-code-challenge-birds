@@ -27,7 +27,7 @@ json-server --watch db.json
 
 ## ✍ Contributors
 - [Josh Dicker](https://github.com/josdic1)
-- correspondign blog post can be found [HERE](https://jd180.hashnode.dev/what-i-learned-in-phase-1-mastering-javascript-and-dom-manipulation)
+- My blog post detailing this build can be found [HERE](https://jd180.hashnode.dev/what-i-learned-in-phase-1-mastering-javascript-and-dom-manipulation)
 
 ## 📜 License
 MIT License
