@@ -1,6 +1,6 @@
 # 🦉 Birdwatching Checklist
 
-A simple birdwatching checklist that allows users to log birds, edit details, and filter/sort them.
+A simple birdwatching checklist that allows users to log birds, edit details, and filter/sort them. 
 
 ## 🚀 Features
 - Add, edit, and delete birds
@@ -27,19 +27,12 @@ json-server --watch db.json
 
 ## ✍ Contributors
 - [Josh Dicker](https://github.com/josdic1)
+- correspondign blog post can be found [HERE](https://jd180.hashnode.dev/what-i-learned-in-phase-1-mastering-javascript-and-dom-manipulation)
 
 ## 📜 License
 MIT License
  
-  # Adds a blank line
-  # Adds a blank line
-  # Adds a blank line
-  # Adds a blank line
-  # Adds a blank line
-  # Adds a blank line
-  # Adds a blank line
-  # Adds a blank line
- 
+
  
  
  
