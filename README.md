@@ -31,3 +31,4 @@ json-server --watch db.json
 ## 📜 License
 MIT License
  
+  # Adds a blank line
