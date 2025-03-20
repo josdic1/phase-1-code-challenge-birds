@@ -1,0 +1,56 @@
+{
+    "birds": [
+    {
+      "name": "Cardinal",
+      "color": "Red",
+      "date-seen": "2023-11-15"
+    },
+    {
+      "name": "Blue Jay",
+      "color": "Blue",
+      "date-seen": "2023-12-03"
+    },
+    {
+      "name": "Flamingo",
+      "color": "Pink",
+      "date-seen": "2024-01-20"
+    },
+    {
+      "name": "Canary",
+      "color": "Yellow",
+      "date-seen": "2023-10-28"
+    },
+    {
+      "name": "Robin",
+      "color": "Red-Orange",
+      "date-seen": "2024-02-10"
+    },
+      {
+      "name": "Peacock",
+      "color": "Blue-Green",
+      "date-seen": "2023-09-05"
+    },
+    {
+      "name": "Goldfinch",
+      "color": "Yellow",
+      "date-seen": "2024-03-01"
+    },
+    {
+      "name": "Dove",
+      "color": "White",
+      "date-seen": "2023-11-22"
+    },
+      {
+      "name": "Crow",
+      "color": "Black",
+      "date-seen": "2024-02-28"
+    },
+      {
+      "name": "Macaw",
+      "color": "Multi-colored",
+      "date-seen": "2024-01-05"
+    }
+]
+}
+
+  
