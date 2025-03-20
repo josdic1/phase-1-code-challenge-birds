@@ -9,7 +9,6 @@
   </head>
   <body>
     <h1> 🐦 Birdwatching Checklist 🔍👀🔭</h1>
-
     <form id="bird-form">
         <input type="text" id="bird-name" placeholder="Enter bird name" required>
         <input type="text" id="bird-color" placeholder="Enter bird color">
@@ -18,6 +17,12 @@
     </form>
 
     <h2>Birds Seen</h2>
+    <input type="text" id="search" placeholder="Search birds...">
+    <select id="sort">
+      <option value="default">Sort By</option>
+      <option value="name">Name</option>
+      <option value="color">Color</option>
+    </select>
     <ul id="bird-list"></ul>
     <script type="module" src="./src/main.js"></script>
   </body>

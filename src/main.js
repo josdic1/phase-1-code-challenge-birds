@@ -30,6 +30,30 @@ const init = () => {
 
 }
 
+
+
+document.getElementById("search").addEventListener("input", filterBirds);
+
+function filterBirds(e) {
+  const searchTerm = e.target.value.toLowerCase();
+  const filteredBirds = birds.filter(bird => bird.name.toLowerCase().includes(searchTerm));
+  renderList(filteredBirds);
+}
+
+document.getElementById("sort").addEventListener("change", sortBirds);
+
+function sortBirds(e) {
+  let sortedBirds = [...birds];
+
+  if (e.target.value === "name") {
+    sortedBirds.sort((a, b) => a.name.localeCompare(b.name));
+  } else if (e.target.value === "color") {
+    sortedBirds.sort((a, b) => a.color.localeCompare(b.color));
+  }
+
+  renderList(sortedBirds);
+}
+
 function renderList(data) {
   const birdData = data.map(item => (
     `<div id=${item.id}><li>${item.color} ${item.name} Seen on ${item.date_seen}</li>
