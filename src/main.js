@@ -25,6 +25,9 @@ let selectedItem = {
 const init = () => {
 
 
+
+
+
   birdDate.value = "";
   fetchBirds()
 
@@ -196,5 +199,6 @@ const clearForm = () => {
   birdColor.value = ""
   birdDate.value = ""
 }
+
 
 window.addEventListener("DOMContentLoaded", init)

@@ -16,7 +16,7 @@ npm install
 
 3. Start the server  
 json-server --watch db.json
-
+npm run dev
 
 4. Open `index.html` in your browser
 

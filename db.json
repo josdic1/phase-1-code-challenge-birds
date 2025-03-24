@@ -11,8 +11,7 @@
       "color": "Pink",
       "date_seen": "2025-01-20",
       "id": "86b9"
-    }, 
-    
+    },
     {
       "name": "Canary",
       "color": "Yellow",
@@ -54,12 +53,6 @@
       "color": "Multi-colored",
       "date_seen": "2024-01-05",
       "id": "e48a"
-    },
-    {
-      "id": "5dae",
-      "name": "Slammer",
-      "color": "Red",
-      "date_seen": "2025-03-19"
     }
   ]
 }
